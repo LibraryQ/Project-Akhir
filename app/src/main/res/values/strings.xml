@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LibraryQ</string>
+    <string name="nama">Nama: </string>
+    <string name="kelas">Kelas: </string>
+    <string name="no_hp">Nomor HP: </string>
+    <string name="tgl">Tanggal Berkunjung: </string>
+    <string name="move_activity">Simpan</string>
+    <string name="this_is_moveactivity">Selamat Datang di Perpustakaan</string>
+    <string name="book">Judul Buku</string>
+    <string name="author">Pengarang</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Pinjam</string>
+    <string name="list">Daftar Buku</string>
+    <string name="grid">Referensi Buku</string>
+    <string name="cardview">Pinjam Buku</string>
+
+</resources>
